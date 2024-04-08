@@ -1,0 +1,21 @@
+{
+  "name": "genapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myscripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-resolve": "^2.0.0",
+    "inspirational-quotes": "^2.0.1"
+  },
+  "devDependencies": {
+    "esmify": "^2.1.1",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
